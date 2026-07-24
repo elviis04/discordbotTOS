@@ -1,0 +1,2 @@
+# discordbotTOS
+terms of service
